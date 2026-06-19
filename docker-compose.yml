@@ -1,0 +1,52 @@
+# Docker Compose configuration for Insurance Policy Advisor
+# Orchestrates the API backend and Streamlit frontend services
+
+version: "3.8"
+
+services:
+  # FastAPI backend service
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: insurance-advisor-api
+    ports:
+      - "8000:8000"
+    environment:
+      - ANTHROPIC_API_KEY=${ANTHROPIC_API_KEY}
+      - APP_ENV=production
+      - APP_LOG_LEVEL=INFO
+      - CHROMA_PERSIST_DIRECTORY=/app/chroma_data
+      - GRAPH_PERSIST_PATH=/app/graph_data/insurance_graph.json
+    volumes:
+      - chroma_data:/app/chroma_data
+      - graph_data:/app/graph_data
+      - ./logs:/app/logs
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/api/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 10s
+    restart: unless-stopped
+
+  # Streamlit frontend service
+  streamlit:
+    build:
+      context: .
+      dockerfile: Dockerfile.streamlit
+    container_name: insurance-advisor-ui
+    ports:
+      - "8501:8501"
+    environment:
+      - API_BASE_URL=http://api:8000
+    depends_on:
+      api:
+        condition: service_healthy
+    restart: unless-stopped
+
+volumes:
+  chroma_data:
+    driver: local
+  graph_data:
+    driver: local

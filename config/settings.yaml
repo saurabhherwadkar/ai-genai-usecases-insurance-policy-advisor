@@ -1,0 +1,49 @@
+# Application Settings for Insurance Policy Advisor
+# These values can be overridden by environment variables
+
+app:
+  name: "Insurance Policy Advisor"
+  version: "0.1.0"
+  env: "development"
+  host: "0.0.0.0"
+  port: 8000
+  log_level: "INFO"
+
+# Anthropic Claude LLM Configuration
+llm:
+  model: "claude-sonnet-4-20250514"
+  max_tokens: 4096
+  temperature: 0.3
+
+# Embedding Model Configuration
+embeddings:
+  model: "all-MiniLM-L6-v2"
+  dimension: 384
+
+# ChromaDB Vector Store Configuration
+vector_store:
+  persist_directory: "./chroma_data"
+  collection_name: "insurance_policies"
+
+# Graph Store Configuration
+graph_store:
+  persist_path: "./graph_data/insurance_graph.json"
+
+# RAG Configuration
+rag:
+  chunk_size: 1000
+  chunk_overlap: 200
+  top_k: 5
+
+# Document Ingestion Configuration
+ingestion:
+  supported_formats:
+    - ".pdf"
+    - ".docx"
+    - ".txt"
+  documents_directory: "./data/sample_policies"
+
+# Streamlit UI Configuration
+ui:
+  port: 8501
+  api_base_url: "http://localhost:8000"

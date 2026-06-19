@@ -1,0 +1,167 @@
+HEALTH INSURANCE POLICY
+Policy Number: HE-2024-003
+Effective Date: January 1, 2024
+Expiration Date: December 31, 2024
+Plan Type: Preferred Provider Organization (PPO)
+
+SECTION 1: ELIGIBILITY AND ENROLLMENT
+
+Eligible Members:
+- Named insured (primary policyholder)
+- Legally married spouse or domestic partner
+- Dependent children up to age 26
+- Disabled dependents regardless of age (with documentation)
+
+Enrollment Periods:
+- Open enrollment: November 1 - December 15 annually
+- Special enrollment: Within 60 days of qualifying life event
+- Qualifying life events: marriage, birth, adoption, loss of other coverage, relocation
+
+SECTION 2: PREMIUM AND COST-SHARING
+
+Monthly Premium: $450 (individual) / $1,200 (family)
+Annual Deductible: $2,000 (individual) / $4,000 (family)
+Out-of-Pocket Maximum: $8,000 (individual) / $16,000 (family)
+
+Cost-Sharing Structure:
+- Preventive care: $0 (no deductible applies)
+- Primary care visit: $30 copay
+- Specialist visit: $60 copay
+- Urgent care: $75 copay
+- Emergency room: $300 copay (waived if admitted)
+- Generic prescriptions: $15 copay
+- Preferred brand prescriptions: $40 copay
+- Non-preferred brand prescriptions: $80 copay
+- Specialty prescriptions: 20% coinsurance up to $250/month
+
+After Deductible:
+- In-network services: Plan pays 80%, member pays 20%
+- Out-of-network services: Plan pays 60%, member pays 40%
+
+SECTION 3: COVERED SERVICES
+
+Preventive Care (no cost-sharing):
+- Annual physical examination
+- Well-child visits and immunizations
+- Cancer screenings (mammogram, colonoscopy, pap smear)
+- Cardiovascular screenings
+- Diabetes screening
+- Depression screening
+- Flu shots and preventive vaccines
+- Contraceptive methods and counseling
+
+Hospital Services:
+- Inpatient hospital care (semi-private room)
+- Outpatient surgery and procedures
+- Emergency room services
+- Intensive care unit
+- Maternity and newborn care
+- Skilled nursing facility (up to 60 days per benefit period)
+
+Medical Services:
+- Primary care physician visits
+- Specialist consultations
+- Diagnostic testing (lab work, X-rays, MRI, CT scans)
+- Physical therapy (up to 30 visits per year)
+- Occupational therapy (up to 30 visits per year)
+- Speech therapy (up to 20 visits per year)
+- Chiropractic care (up to 20 visits per year)
+- Durable medical equipment
+- Home health care (up to 100 visits per year)
+- Hospice care
+
+Mental Health and Substance Abuse:
+- Outpatient mental health visits: $30 copay
+- Inpatient mental health: Same as hospital services
+- Substance abuse treatment (inpatient and outpatient)
+- Applied Behavior Analysis (ABA) for autism
+- Crisis intervention services
+
+Prescription Drug Coverage:
+- Tier 1 (Generic): $15 copay
+- Tier 2 (Preferred Brand): $40 copay
+- Tier 3 (Non-Preferred Brand): $80 copay
+- Tier 4 (Specialty): 20% coinsurance, max $250/month
+- Mail-order: 90-day supply at 2.5x copay
+- Formulary exceptions available with prior authorization
+
+Vision Services:
+- Annual eye exam: $20 copay
+- Eyeglass frames: $150 allowance every 24 months
+- Contact lens fitting: covered
+- Laser eye surgery: not covered
+
+Dental Services (basic):
+- Preventive cleaning: 2 per year, $0 copay
+- Basic restorative (fillings): 20% coinsurance
+- Major restorative (crowns, bridges): 50% coinsurance
+- Orthodontia: not covered under this plan
+- Annual dental maximum: $1,500
+
+SECTION 4: EXCLUSIONS AND LIMITATIONS
+
+Services NOT covered by this policy:
+- Cosmetic surgery or procedures (unless medically necessary for reconstruction)
+- Experimental or investigational treatments
+- Weight loss surgery (unless BMI > 40 or BMI > 35 with comorbidities)
+- Infertility treatments beyond diagnostic testing
+- Long-term custodial care
+- Services received outside the United States (except emergency)
+- Work-related injuries covered by workers' compensation
+- Services not deemed medically necessary
+- Over-the-counter medications
+- Hearing aids (covered for children under 18 only)
+- Private duty nursing
+- Acupuncture (limited to 12 visits/year for chronic pain only)
+- Dental implants
+- Routine foot care (unless diabetic)
+
+Prior Authorization Required For:
+- Inpatient hospital admissions (except emergency)
+- Outpatient surgery
+- Advanced imaging (MRI, CT, PET scans)
+- Specialty medications
+- Durable medical equipment over $500
+- Physical/occupational therapy beyond 12 visits
+- Home health care
+- Skilled nursing facility stays
+- Mental health inpatient admissions
+
+SECTION 5: NETWORK INFORMATION
+
+In-Network Benefits:
+- Access to over 500,000 providers nationwide
+- No referral required for specialists
+- Lower cost-sharing amounts
+- No balance billing
+
+Out-of-Network Benefits:
+- Higher deductible applies ($4,000 individual / $8,000 family)
+- Higher coinsurance (40% member responsibility)
+- Balance billing may apply
+- Out-of-network out-of-pocket maximum: $16,000 / $32,000
+
+SECTION 6: CLAIMS AND APPEALS
+
+Filing a Claim:
+- In-network providers file claims directly
+- Out-of-network: Submit claim within 90 days of service
+- Include itemized bill with diagnosis and procedure codes
+- Claims processed within 30 days of receipt
+
+Appeals Process:
+- Level 1: Internal review within 30 days
+- Level 2: External independent review within 45 days
+- Expedited review available for urgent situations (72 hours)
+- Members may designate an authorized representative
+
+SECTION 7: WELLNESS PROGRAMS
+
+Included wellness benefits:
+- Health risk assessment: Annual online questionnaire
+- Wellness coaching: Up to 6 telephonic sessions per year
+- Gym membership discount: $150 annual reimbursement
+- Smoking cessation program: Covered at 100%
+- Weight management program: $500 annual benefit
+- Employee Assistance Program (EAP): 6 free counseling sessions
+- Telemedicine visits: $0 copay for virtual primary care
